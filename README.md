@@ -1,3 +1,3 @@
 # Jogo Emoji
 
-## Demonstração de manipulação com DOM de Javascipt
+## Demonstração de manipulação com DOM, Javascipt
